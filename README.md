@@ -2,9 +2,9 @@
 Matlab project
 
 ****************************************
-Instruction:(Need to install matlab first)
-The "main.fig" is the user interface file.
-Run "main.m" to activate the app interface.
+Instruction:(Need to install matlab first)  
+The "main.fig" is the user interface file.  
+Run "main.m" to activate the app interface.  
 
 1. Click "Open New Image" to load the image you want to detect. Browse and choose the image in the pop-up window.
 2. Choose the segmentation method for shadow removal, and click "Segment" to apply it.
