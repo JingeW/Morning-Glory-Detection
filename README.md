@@ -1,9 +1,6 @@
 # Morning-Gloary-Detection
 Matlab project
 
-Edit by Jinge Wang
-Date: 6/15/2020
-
 ****************************************
 Instruction:(Need to install matlab first)
 The "main.fig" is the user interface file.
