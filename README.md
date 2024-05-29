@@ -14,7 +14,7 @@ Play with the following steps:
 	- 2.1 K-means
 		The parameter of K-means is the number of the cluster. The default k equals 3. Small k's can avoid most of the noise in the shadow. Larger k provides more details.
 	- 2.2 Mean shift
-		The parameter of Mean shift is the bandwidth of the kernel. The default bw equals to 0.2. It's a faster method for segmentation. The detection result is very similar to the K-means when k = 3.\
+		The parameter of Mean shift is the bandwidth of the kernel. The default bw equals to 0.2. It's a faster method for segmentation. The detection result is very similar to the K-means when k = 3.
     <img src="Figs/img2.png" alt="Sample Image" width="600"/>
 3. Click "Mask" to generate the binary mask for shadow removal.\
    <img src="Figs/img3.png" alt="Sample Image" width="600"/>
