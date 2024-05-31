@@ -1,4 +1,6 @@
 # Morning Glory Detection
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
+
 A detection tool with Matlab UI.
 
 You can find more details in our [paper](https://www.mdpi.com/2624-7402/6/1/34).
