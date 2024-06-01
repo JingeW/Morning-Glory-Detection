@@ -3,7 +3,7 @@
 
 A detection tool with Matlab UI.
 
-You can find more details in our [paper](https://www.mdpi.com/2624-7402/6/1/34).
+📃 [Read the Full Paper](https://www.mdpi.com/2624-7402/6/1/34).
 
 ## Instruction:
 Need to install Matlab first.\
